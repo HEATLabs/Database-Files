@@ -1,0 +1,65 @@
+{
+    "TANK NAME": "leopard-2k",
+    "FIREPOWER": {
+        "DAMAGE": "330",
+        "PENETRATION": "0",
+        "AIMING SPEED": "1.54",
+        "RELOAD TIME": "1.5",
+        "TIME BETWEEN SHOTS": "1.5",
+        "SHELLS IN MAGAZINE": "1",
+        "MAGAZINE COUNT": "13",
+        "TIME TO LOAD NEXT MAGAZINE": "1.5",
+        "RETICLE SIZE, MOVING": "1.5",
+        "RETICLE SIZE, ROTATING HULL": "0.35",
+        "RETICLE SIZE, STANDING": "1",
+        "RETICLE SIZE, AFTER SHOT": "0.85",
+        "RETICLE SIZE, MAX": "4",
+        "TURRET TRAVERSE SPEED": "30",
+        "GUN ELEVATION, DEGREES/SECOND": "30",
+        "GUN DEPRESSION, FSR": "-7,-7,+5",
+        "GUN ELEVATION, FSR": "+20,+20,+20"
+    },
+    "MOBILITY": {
+        "FORWARD SPEED, KM/H": "72",
+        "REVERSE SPEED, KM/H": "10.8",
+        "BASE ACCELERATION": "75",
+        "TRAVERSE SPEED": "37.24",
+        "SPRINT ENERGY COST": "10",
+        "SPRINT ENERGY VOLUME": "100",
+        "SPRINT REGEN RATE": "5",
+        "RAMMING MASS MEASURE": "40"
+    },
+    "SURVIVABILITY": {
+        "HIT POINTS": "2200",
+        "INCOMING CRIT DAMAGE, AMMO RACK": "1.5",
+        "TRACK REPAIR TIME, SECONDS": "8",
+        "CREW HIT POINTS": "200",
+        "CREW RECOVERY TIME, SECONDS": "8",
+        "INCOMING CRIT DAMAGE, ENGINE": "1",
+        "ENGINE HIT POINTS": "2",
+        "ENGINE REPAIR TIME, SECONDS": "0",
+        "FIRE DURATION, SECONDS": "8",
+        "FIRE DAMAGE": "8",
+        "INCOMING CRIT DAMAGE, FUEL TANK": "4",
+        "FIRE DAMAGE RATE": "0",
+        "RAMMING DAMAGE RESISTANCE, FRONT": "1",
+        "RAMMING DAMAGE BONUS": "0.25",
+        "REPAIR KIT COOLDOWN, SECONDS": "1",
+        "TRACK HIT POINTS": "145",
+        "LTRACKAMOUNTTOREGEN": "200"
+    },
+    "RECON": {
+        "SPOTTING ANGLE, DEGREES": "25",
+        "SPOTTING RANGE, METERS": "300",
+        "SPOTTING DURATION, SECONDS": "1.3",
+        "SIGNAL RANGE, METERS": "100",
+        "X-RAY RADIUS, METERS": "30"
+    },
+    "UTILITY": {
+        "ENERGY POINTS": "100",
+        "ENERGY REGENERATION": "1",
+        "SMOKE COOLDOWN, SECONDS": "30",
+        "SMOKE ENERGY COST": "60",
+        "SMOKE USE COUNT": "1"
+    }
+}
