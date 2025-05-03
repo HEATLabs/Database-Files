@@ -1,0 +1,124 @@
+{
+  "top_3_teams": [
+    {
+      "team_name": "Team 1",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
+      "team_captain": "IGN",
+      "team_description": "Team Description",
+      "team_motto": "Team Motto",
+      "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
+      "team_tanks": [
+        {
+          "player_name": "Player Name 1",
+          "tank_name": "Tank Name 1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 2",
+          "tank_name": "Tank Name 2",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 3",
+          "tank_name": "Tank Name 3",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 4",
+          "tank_name": "Tank Name 4",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 5",
+          "tank_name": "Tank Name 5",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 6",
+          "tank_name": "Tank Name 6",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Team 2",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
+      "team_captain": "IGN",
+      "team_description": "Team Description",
+      "team_motto": "Team Motto",
+      "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
+      "team_tanks": [
+        {
+          "player_name": "Player Name 1",
+          "tank_name": "Tank Name 1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 2",
+          "tank_name": "Tank Name 2",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 3",
+          "tank_name": "Tank Name 3",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 4",
+          "tank_name": "Tank Name 4",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 5",
+          "tank_name": "Tank Name 5",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 6",
+          "tank_name": "Tank Name 6",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Team 3",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
+      "team_captain": "IGN",
+      "team_description": "Team Description",
+      "team_motto": "Team Motto",
+      "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
+      "team_tanks": [
+        {
+          "player_name": "Player Name 1",
+          "tank_name": "Tank Name 1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 2",
+          "tank_name": "Tank Name 2",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 3",
+          "tank_name": "Tank Name 3",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 4",
+          "tank_name": "Tank Name 4",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 5",
+          "tank_name": "Tank Name 5",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        },
+        {
+          "player_name": "Player Name 6",
+          "tank_name": "Tank Name 6",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+        }
+      ]
+    }
+  ]
+}
