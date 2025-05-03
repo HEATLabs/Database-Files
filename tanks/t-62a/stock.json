@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "t-62a",
+    "TANK_NAME": "t-62a",
     "FIREPOWER": {
         "DAMAGE": "280",
         "PENETRATION": "0",

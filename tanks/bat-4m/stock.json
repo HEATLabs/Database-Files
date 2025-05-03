@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "bat-4m",
+    "TANK_NAME": "bat-4m",
     "FIREPOWER": {
         "DAMAGE": "0",
         "PENETRATION": "0",

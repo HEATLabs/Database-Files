@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "m1-railgun",
+    "TANK_NAME": "m1-railgun",
     "FIREPOWER": {
         "DAMAGE": "600",
         "PENETRATION": "0",

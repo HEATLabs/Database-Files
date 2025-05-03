@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "object-279",
+    "TANK_NAME": "object-279",
     "FIREPOWER": {
         "DAMAGE": "800",
         "PENETRATION": "25",

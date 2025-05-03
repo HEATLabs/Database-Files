@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "challenger",
+    "TANK_NAME": "challenger",
     "FIREPOWER": {
         "DAMAGE": "0",
         "PENETRATION": "0",

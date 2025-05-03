@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "xm1-90",
+    "TANK_NAME": "xm1-90",
     "FIREPOWER": {
         "DAMAGE": "150",
         "PENETRATION": "0",

@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "leopard-2k",
+    "TANK_NAME": "leopard-2k",
     "FIREPOWER": {
         "DAMAGE": "330",
         "PENETRATION": "0",

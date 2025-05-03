@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "alvt",
+    "TANK_NAME": "alvt",
     "FIREPOWER": {
         "DAMAGE": "0",
         "PENETRATION": "0",

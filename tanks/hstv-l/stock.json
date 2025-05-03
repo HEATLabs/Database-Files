@@ -1,5 +1,5 @@
 {
-    "TANK NAME": "hstv-l",
+    "TANK_NAME": "hstv-l",
     "FIREPOWER": {
         "DAMAGE": "150",
         "PENETRATION": "0",
