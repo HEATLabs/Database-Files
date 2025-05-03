@@ -1,10 +1,10 @@
 {
-  "total_teams": "Unknown",
+  "total_teams": "42",
   "top_3_teams": [
     {
-      "team_name": "ONLYONCE",
+      "team_name": "OnlyOnce",
       "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
-      "team_captain": "IGN",
+      "team_captain": "Benso_Primus",
       "team_description": "Team Description",
       "team_motto": "Team Motto",
       "team_members": "Benso_Primus, __Link__, Scatter_, RickOShe, Leonlein, Timmi_hates_Arty",
@@ -42,80 +42,80 @@
       ]
     },
     {
-      "team_name": "Team 2",
+      "team_name": "SMILE",
       "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
-      "team_captain": "IGN",
+      "team_captain": "External007",
       "team_description": "Team Description",
       "team_motto": "Team Motto",
-      "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
+      "team_members": "External007, VovaUkranian, ethanstriker, Flyll, Aking_LTP, Colonel_Kern",
       "team_tanks": [
         {
-          "player_name": "Player Name 1",
-          "tank_name": "Tank Name 1",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "External007",
+          "tank_name": "XM1-90",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon-xm1-90.png"
         },
         {
-          "player_name": "Player Name 2",
+          "player_name": "VovaUkranian",
           "tank_name": "Tank Name 2",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 3",
-          "tank_name": "Tank Name 3",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "ethanstriker",
+          "tank_name": "M1E1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         },
         {
-          "player_name": "Player Name 4",
-          "tank_name": "Tank Name 4",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "Flyll",
+          "tank_name": "M1E1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         },
         {
-          "player_name": "Player Name 5",
-          "tank_name": "Tank Name 5",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "Aking_LTP",
+          "tank_name": "Leopard 1A1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon-leopard-1a1.png"
         },
         {
-          "player_name": "Player Name 6",
-          "tank_name": "Tank Name 6",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "Colonel_Kern",
+          "tank_name": "Leopard 1A1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon-leopard-1a1.png"
         }
       ]
     },
     {
-      "team_name": "Team 3",
-      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
-      "team_captain": "IGN",
+      "team_name": "TEAM48",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/team48.png",
+      "team_captain": "sirwars_2017",
       "team_description": "Team Description",
       "team_motto": "Team Motto",
-      "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
+      "team_members": "sirwars_2017, __Max1mus__, Blitzwing, Pakasto9, __4lpha__, _KeinInternet26_",
       "team_tanks": [
         {
-          "player_name": "Player Name 1",
+          "player_name": "sirwars_2017",
           "tank_name": "Tank Name 1",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 2",
+          "player_name": "__Max1mus__",
           "tank_name": "Tank Name 2",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 3",
+          "player_name": "Blitzwing",
           "tank_name": "Tank Name 3",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 4",
+          "player_name": "Pakasto9",
           "tank_name": "Tank Name 4",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 5",
+          "player_name": "__4lpha__",
           "tank_name": "Tank Name 5",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 6",
+          "player_name": "_KeinInternet26_",
           "tank_name": "Tank Name 6",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         }
