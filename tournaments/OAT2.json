@@ -1,120 +1,120 @@
 {
   "top_3_teams": [
     {
-      "team_name": "Team 1",
+      "team_name": "3Mid",
       "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
-      "team_captain": "IGN",
+      "team_captain": "vadi_1_4",
       "team_description": "Team Description",
       "team_motto": "Team Motto",
       "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
       "team_tanks": [
         {
-          "player_name": "Player Name 1",
-          "tank_name": "Tank Name 1",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "W00DI",
+          "tank_name": "T-62A",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png"
         },
         {
-          "player_name": "Player Name 2",
-          "tank_name": "Tank Name 2",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "Destroy_Mix",
+          "tank_name": "T-62A",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png"
         },
         {
-          "player_name": "Player Name 3",
-          "tank_name": "Tank Name 3",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "_Androni_",
+          "tank_name": "M1E1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         },
         {
-          "player_name": "Player Name 4",
-          "tank_name": "Tank Name 4",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "vadi_1_4",
+          "tank_name": "M1E1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         },
         {
-          "player_name": "Player Name 5",
-          "tank_name": "Tank Name 5",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "dema_GG_UA",
+          "tank_name": "Leopard 1A6",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a6/icon_leopard-1a6.png"
         },
         {
-          "player_name": "Player Name 6",
+          "player_name": "Mmonstrik_PRO",
           "tank_name": "Tank Name 6",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         }
       ]
     },
     {
-      "team_name": "Team 2",
+      "team_name": "Large",
       "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
-      "team_captain": "IGN",
+      "team_captain": "BiggestMeta",
       "team_description": "Team Description",
       "team_motto": "Team Motto",
-      "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
+      "team_members": "BiggestMeta, CoolestKern, PM_Loves_Hoarce, thehobostrangle, CraziestChris, Hoarce_Loves_PM",
       "team_tanks": [
         {
-          "player_name": "Player Name 1",
-          "tank_name": "Tank Name 1",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "BiggestMeta",
+          "tank_name": "T-62A",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png"
         },
         {
-          "player_name": "Player Name 2",
-          "tank_name": "Tank Name 2",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "CoolestKern",
+          "tank_name": "T-62A",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png"
         },
         {
-          "player_name": "Player Name 3",
-          "tank_name": "Tank Name 3",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "PM_Loves_Hoarce",
+          "tank_name": "M1E1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         },
         {
-          "player_name": "Player Name 4",
-          "tank_name": "Tank Name 4",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "thehobostrangle",
+          "tank_name": "M1E1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         },
         {
-          "player_name": "Player Name 5",
-          "tank_name": "Tank Name 5",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
+          "player_name": "CraziestChris",
+          "tank_name": "Leopard 1A6",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a6/icon_leopard-1a6.png"
         },
         {
-          "player_name": "Player Name 6",
+          "player_name": "Hoarce_Loves_PM",
           "tank_name": "Tank Name 6",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         }
       ]
     },
     {
-      "team_name": "Team 3",
-      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
-      "team_captain": "IGN",
+      "team_name": "TEAM48",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/team48.png",
+      "team_captain": "__4lpha__",
       "team_description": "Team Description",
-      "team_motto": "Team Motto",
-      "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
+      "team_motto": "REP 48!",
+      "team_members": "__4lpha__, __Max1mus__, Krias , rooFV, iain11, iksta101",
       "team_tanks": [
         {
-          "player_name": "Player Name 1",
+          "player_name": "__4lpha",
           "tank_name": "Tank Name 1",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 2",
+          "player_name": "__Max1mus__",
           "tank_name": "Tank Name 2",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 3",
+          "player_name": "Krias",
           "tank_name": "Tank Name 3",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 4",
+          "player_name": "rooFV",
           "tank_name": "Tank Name 4",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 5",
+          "player_name": "iain11",
           "tank_name": "Tank Name 5",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         },
         {
-          "player_name": "Player Name 6",
+          "player_name": "iksta101",
           "tank_name": "Tank Name 6",
           "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/placeholder-image.png"
         }
