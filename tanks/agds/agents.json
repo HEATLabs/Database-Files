@@ -1,1 +1,67 @@
-[]
+{
+  "agents": [
+    {
+      "name": "Agent 1",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/placeholder-image.png",
+      "specialty": "Ability Name",
+      "description": "Ability Description",
+      "story": "Agent Story",
+      "compatibleTanks": [
+        {
+          "name": "Tank Name 1",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        },
+        {
+          "name": "Tank Name 2",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        },
+        {
+          "name": "Tank Name 3",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        }
+      ]
+    },
+    {
+      "name": "Agent 3",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/placeholder-image.png",
+      "specialty": "Ability Name",
+      "description": "Ability Description",
+      "story": "Agent Story",
+      "compatibleTanks": [
+        {
+          "name": "Tank Name 1",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        },
+        {
+          "name": "Tank Name 2",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        },
+        {
+          "name": "Tank Name 3",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        }
+      ]
+    },
+    {
+      "name": "Agent 3",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/placeholder-image.png",
+      "specialty": "Ability Name",
+      "description": "Ability Description",
+      "story": "Agent Story",
+      "compatibleTanks": [
+        {
+          "name": "Tank Name 1",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        },
+        {
+          "name": "Tank Name 2",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        },
+        {
+          "name": "Tank Name 3",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/placeholder-image.png"
+        }
+      ]
+    }
+  ]
+}
