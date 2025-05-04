@@ -52,7 +52,7 @@
         {
           "player_name": "External007",
           "tank_name": "XM1-90",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon-xm1-90.png"
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon_xm1-90.png"
         },
         {
           "player_name": "VovaUkranian",
@@ -72,12 +72,12 @@
         {
           "player_name": "Aking_LTP",
           "tank_name": "Leopard 1A1",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon-leopard-1a1.png"
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon_leopard-1a1.png"
         },
         {
           "player_name": "Colonel_Kern",
           "tank_name": "Leopard 1A1",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon-leopard-1a1.png"
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon_leopard-1a1.png"
         }
       ]
     },
