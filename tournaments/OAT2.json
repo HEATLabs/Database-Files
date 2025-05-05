@@ -91,13 +91,13 @@
       "team_tanks": [
         {
           "player_name": "__4lpha",
-          "tank_name": "Tank Name 1",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "tank_name": "XM1-90",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon_xm1-90.png"
         },
         {
           "player_name": "__Max1mus__",
-          "tank_name": "Tank Name 2",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "tank_name": "Leopard 1A6",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a6/icon_leopard-1a6.png"
         },
         {
           "player_name": "Krias",
@@ -106,18 +106,18 @@
         },
         {
           "player_name": "rooFV",
-          "tank_name": "Tank Name 4",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "tank_name": "T-62A",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png"
         },
         {
           "player_name": "iain11",
-          "tank_name": "Tank Name 5",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "tank_name": "M1E1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         },
         {
           "player_name": "iksta101",
-          "tank_name": "Tank Name 6",
-          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "tank_name": "M1E1",
+          "tank_image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         }
       ]
     }
