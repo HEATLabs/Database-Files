@@ -2,64 +2,64 @@
   "agents": [
     {
       "name": "Agent 1",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/imagecomingsoon.png",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
       "specialty": "Ability Name",
       "description": "Ability Description",
       "story": "Agent Story",
       "compatibleTanks": [
         {
           "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         },
         {
           "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         },
         {
           "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+        }
+      ]
+    },
+    {
+      "name": "Agent 2",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
+      "specialty": "Ability Name",
+      "description": "Ability Description",
+      "story": "Agent Story",
+      "compatibleTanks": [
+        {
+          "name": "Tank Name 1",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+        },
+        {
+          "name": "Tank Name 2",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+        },
+        {
+          "name": "Tank Name 3",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         }
       ]
     },
     {
       "name": "Agent 3",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/imagecomingsoon.png",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
       "specialty": "Ability Name",
       "description": "Ability Description",
       "story": "Agent Story",
       "compatibleTanks": [
         {
           "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         },
         {
           "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         },
         {
           "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 3",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/imagecomingsoon.png"
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         }
       ]
     }
