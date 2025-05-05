@@ -3,7 +3,7 @@
   "top_3_teams": [
     {
       "team_name": "OnlyOnce",
-      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagenotfound.png",
       "team_captain": "Benso_Primus",
       "team_description": "Team Description",
       "team_motto": "Team Motto",
@@ -43,7 +43,7 @@
     },
     {
       "team_name": "SMILE",
-      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagenotfound.png",
       "team_captain": "External007",
       "team_description": "Team Description",
       "team_motto": "Team Motto",

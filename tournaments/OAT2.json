@@ -3,11 +3,11 @@
   "top_3_teams": [
     {
       "team_name": "3Mid",
-      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagenotfound.png",
       "team_captain": "vadi_1_4",
       "team_description": "Team Description",
       "team_motto": "N/A",
-      "team_members": "Member 1, Member 2, Member 3, Member 4, Member 5, Member 6",
+      "team_members": "W00DI, Destroy_Mix, _Androni_, vadi_1_4, dema_GG_UA, Mmonstrik_PRO",
       "team_tanks": [
         {
           "player_name": "W00DI",
@@ -43,7 +43,7 @@
     },
     {
       "team_name": "Large",
-      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tournament-team-logos/placeholder-image.png",
+      "team_logo": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagenotfound.png",
       "team_captain": "BiggestMeta",
       "team_description": "A bag of unserious teammates with tournament experience from  WoT.",
       "team_motto": "N/A",
