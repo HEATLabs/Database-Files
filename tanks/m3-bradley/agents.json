@@ -1,65 +1,23 @@
 {
   "agents": [
     {
-      "name": "Agent 1",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
+      "name": "Blitz",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/Blitz.png",
+      "specialty": "EMP Rakete",
+      "description": "Launches a slow-moving rocket system that can be controlled like any other guided missile. When the missile confronts any object, it will slow down and jam nearby opponents. The rocket deals electrical damage as it moves and after coming into contact with an obstacle will detonate with a short delay, or it can be manually triggered.",
+      "story": "A tech expert who jams enemy electronics and strikes hard from a distance. A tech-obsessed rule follower, Blitz would rather solve problems with gadgets than people skills, he swears the future belongs to robots and remote warfare, mocking anyone stuck in the old ways. Maximum efficiency but little empathy; he's ruthlessly smart and honest to a fault, with a laser focus that gets results. Blitz claims he's too busy for friends or dating, truth is, he's terrible at both but would never admit it.",
       "compatibleTanks": [
         {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "M3 Bradley",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m3-bradley/icon_m3-bradley.png"
         },
         {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "M551",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m551/icon_m551.png"
         },
         {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 2",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 3",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "Leopard 1A1",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon_leopard-1a1.png"
         }
       ]
     }

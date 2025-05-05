@@ -1,65 +1,19 @@
 {
   "agents": [
     {
-      "name": "Agent 1",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
+      "name": "Reaper",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/Reaper.png",
+      "specialty": "Execute",
+      "description": "Reaper can always sense weakness in his opponents and strike hard against it. Any opponent that has less than 420 HP left is killed immediately when Reaper manages to deal damage to the target vehicle. When you activate the ability, Reaper loads a clip of shells that can deal increased critical damage and execute opponents more easily. The clip is automatically reloaded when Reaper executes an opponent.",
+      "story": "A bold fighter who excels at close range, striking swiftly to finish off wounded enemies. A quiet artist with ancient warrior blood, Reaper is a man of few words but deadly moves. He often ignores orders to follow his gut feelings, and somehow it's always the right call. He never rushes, moving with calm grace, like he already knows what's coming next. You'll rarely catch his eye, but when you do, he stares right through you with unnerving confidence. From quick sketches in his notebook to perfect shots at enemies, not a single movement is wasted.",
       "compatibleTanks": [
         {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "M60E3",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a3/icon_m60a3.png"
         },
         {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 2",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 3",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "Leopard 2K",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k/icon_leopard-2k.png"
         }
       ]
     }

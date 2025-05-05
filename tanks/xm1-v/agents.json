@@ -2,64 +2,18 @@
   "agents": [
     {
       "name": "Agent 1",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/Chopper.png",
+      "specialty": "Shock and Awe",
+      "description": "Call in the support of Chopper's friend in the Air Force, the bomber will fly to the targeted position deal a lot of damage, and become dazed.",
+      "story": "A frontline fighter who calls in air support to hold the line. He is a bear of a man on his chrome-plated bike, but appearances deceive. Big personality, heart of gold: devoted to friends, lethal to enemies. A father figure to many Agents, he's a down-to-earth family man who signed up to provide for his kids' education, yet this practical soul has a literary quote ready for any moment. But cross this bear at your own peril.",
       "compatibleTanks": [
         {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "XM1V",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-v/icon_xm1-v.png"
         },
         {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 2",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 3",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "M1E1",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
         }
       ]
     }

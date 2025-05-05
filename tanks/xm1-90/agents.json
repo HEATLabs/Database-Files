@@ -1,65 +1,23 @@
 {
   "agents": [
     {
-      "name": "Agent 1",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
+      "name": "Kent",
+      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/Kent.png",
+      "specialty": "Contracts",
+      "description": "Lock as many opponents as possible in the cone view, activate the ability, and watch as enemies get blasted by aerial strikes",
+      "story": "A hitman that makes no target safe. Once he has intel on your location, you'll face ballistic strikes unless you move. A dapper, bright, and ambitious lad, Kent exudes confidence in spades. But don't be fooled by the charm, his promising career crashed after a major incident, whether his fault or not. Talented but tarnished, joining the Agents is his last shot at redemption. He's buried his past failures deep, but he's terrified they'll surface at any minute, so he's a bit of a show off with his peculiar skill: cursed with extraordinary luck, he knows who to hit and when.",
       "compatibleTanks": [
         {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "XM1-90",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon_xm1-90.png"
         },
         {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "HSTV-L",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/hstv-l/icon_hstv-l.png"
         },
         {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 2",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        }
-      ]
-    },
-    {
-      "name": "Agent 3",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
-      "compatibleTanks": [
-        {
-          "name": "Tank Name 1",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 2",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
-        },
-        {
-          "name": "Tank Name 3",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
+          "name": "XM808 Twister",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm808-twister/icon_xm808-twister.png"
         }
       ]
     }
