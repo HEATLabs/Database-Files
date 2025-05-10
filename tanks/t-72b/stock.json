@@ -16,8 +16,12 @@
             "RETICLE SIZE, MAX": "4",
             "TURRET TRAVERSE SPEED": "53",
             "GUN ELEVATION, DEGREES/SECOND": "30",
-            "GUN DEPRESSION, FSR": "-8,-7,+3",
-            "GUN ELEVATION, FSR": "+19,+20,+21"
+            "GUN DEPRESSION, FRONT": "-8",
+            "GUN DEPRESSION, SIDE": "-7",
+            "GUN DEPRESSION, REAR": "+3",
+            "GUN ELEVATION, FRONT": "+19",
+            "GUN ELEVATION, SIDE": "+20",
+            "GUN ELEVATION, REAR": "+21"
         },
         "MOBILITY": {
             "FORWARD SPEED, KM/H": "54",
