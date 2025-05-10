@@ -22,8 +22,12 @@
                 "RETICLE SIZE, MAX": "0",
                 "TURRET TRAVERSE SPEED": "0",
                 "GUN ELEVATION, DEGREES/SECOND": "0",
-                "GUN DEPRESSION, FSR": "-0,-0,-0",
-                "GUN ELEVATION, FSR": "+0,+0,+0"
+                "GUN DEPRESSION, FRONT": "-0",
+                "GUN DEPRESSION, SIDE": "-0",
+                "GUN DEPRESSION, REAR": "-0",
+                "GUN ELEVATION, FRONT": "+0",
+                "GUN ELEVATION, SIDE": "+0",
+                "GUN ELEVATION, REAR": "+0"
             },
             "MOBILITY": {
                 "FORWARD SPEED, KM/H": "0",
@@ -93,8 +97,12 @@
                 "RETICLE SIZE, MAX": "0",
                 "TURRET TRAVERSE SPEED": "0",
                 "GUN ELEVATION, DEGREES/SECOND": "0",
-                "GUN DEPRESSION, FSR": "-0,-0,-0",
-                "GUN ELEVATION, FSR": "+0,+0,+0"
+                "GUN DEPRESSION, FRONT": "-0",
+                "GUN DEPRESSION, SIDE": "-0",
+                "GUN DEPRESSION, REAR": "-0",
+                "GUN ELEVATION, FRONT": "+0",
+                "GUN ELEVATION, SIDE": "+0",
+                "GUN ELEVATION, REAR": "+0"
             },
             "MOBILITY": {
                 "FORWARD SPEED, KM/H": "0",
@@ -164,8 +172,12 @@
                 "RETICLE SIZE, MAX": "0",
                 "TURRET TRAVERSE SPEED": "0",
                 "GUN ELEVATION, DEGREES/SECOND": "0",
-                "GUN DEPRESSION, FSR": "-0,-0,-0",
-                "GUN ELEVATION, FSR": "+0,+0,+0"
+                "GUN DEPRESSION, FRONT": "-0",
+                "GUN DEPRESSION, SIDE": "-0",
+                "GUN DEPRESSION, REAR": "-0",
+                "GUN ELEVATION, FRONT": "+0",
+                "GUN ELEVATION, SIDE": "+0",
+                "GUN ELEVATION, REAR": "+0"
             },
             "MOBILITY": {
                 "FORWARD SPEED, KM/H": "0",
@@ -235,8 +247,12 @@
                 "RETICLE SIZE, MAX": "0",
                 "TURRET TRAVERSE SPEED": "0",
                 "GUN ELEVATION, DEGREES/SECOND": "0",
-                "GUN DEPRESSION, FSR": "-0,-0,-0",
-                "GUN ELEVATION, FSR": "+0,+0,+0"
+                "GUN DEPRESSION, FRONT": "-0",
+                "GUN DEPRESSION, SIDE": "-0",
+                "GUN DEPRESSION, REAR": "-0",
+                "GUN ELEVATION, FRONT": "+0",
+                "GUN ELEVATION, SIDE": "+0",
+                "GUN ELEVATION, REAR": "+0"
             },
             "MOBILITY": {
                 "FORWARD SPEED, KM/H": "0",
@@ -306,8 +322,12 @@
                 "RETICLE SIZE, MAX": "0",
                 "TURRET TRAVERSE SPEED": "0",
                 "GUN ELEVATION, DEGREES/SECOND": "0",
-                "GUN DEPRESSION, FSR": "-0,-0,-0",
-                "GUN ELEVATION, FSR": "+0,+0,+0"
+                "GUN DEPRESSION, FRONT": "-0",
+                "GUN DEPRESSION, SIDE": "-0",
+                "GUN DEPRESSION, REAR": "-0",
+                "GUN ELEVATION, FRONT": "+0",
+                "GUN ELEVATION, SIDE": "+0",
+                "GUN ELEVATION, REAR": "+0"
             },
             "MOBILITY": {
                 "FORWARD SPEED, KM/H": "0",
@@ -377,8 +397,12 @@
                 "RETICLE SIZE, MAX": "0",
                 "TURRET TRAVERSE SPEED": "0",
                 "GUN ELEVATION, DEGREES/SECOND": "0",
-                "GUN DEPRESSION, FSR": "-0,-0,-0",
-                "GUN ELEVATION, FSR": "+0,+0,+0"
+                "GUN DEPRESSION, FRONT": "-0",
+                "GUN DEPRESSION, SIDE": "-0",
+                "GUN DEPRESSION, REAR": "-0",
+                "GUN ELEVATION, FRONT": "+0",
+                "GUN ELEVATION, SIDE": "+0",
+                "GUN ELEVATION, REAR": "+0"
             },
             "MOBILITY": {
                 "FORWARD SPEED, KM/H": "0",
