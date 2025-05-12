@@ -1,19 +1,19 @@
 {
   "agents": [
     {
-      "name": "Ray",
+      "name": "Udarnik",
       "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
       "specialty": "Ability Name",
       "description": "Ability Description",
       "story": "Agent Story",
       "compatibleTanks": [
         {
-          "name": "M1 Railgun",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1-railgun/icon_m1-railgun.png"
+          "name": "T-62MS",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62ms/icon_t-62ms.png"
         },
         {
-          "name": "PTZ-89C",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/ptz89c/icon_ptz89c.png"
+          "name": "Object 279",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-279/icon_object-279.png"
         }
       ]
     }

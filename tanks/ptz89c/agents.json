@@ -8,12 +8,12 @@
       "story": "Agent Story",
       "compatibleTanks": [
         {
-          "name": "M1 Railgun",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1-railgun/icon_m1-railgun.png"
-        },
-        {
           "name": "PTZ-89C",
           "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/ptz89c/icon_ptz89c.png"
+        },
+        {
+          "name": "M1 Railgun",
+          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1-railgun/icon_m1-railgun.png"
         }
       ]
     }
