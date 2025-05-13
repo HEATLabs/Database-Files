@@ -1,22 +1,22 @@
 {
   "agents": [
     {
-      "name": "Agent 1",
+      "name": "Data Unavailable",
       "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-      "specialty": "Ability Name",
-      "description": "Ability Description",
-      "story": "Agent Story",
+      "specialty": "To be announced",
+      "description": "Information about this agent's abilities is currently unavailable.",
+      "story": "This agent is not yet linked to any known tanks. Once released, more information will be provided here.",
       "compatibleTanks": [
         {
-          "name": "Tank Name 1",
+          "name": "No Data Yet",
           "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         },
         {
-          "name": "Tank Name 2",
+          "name": "No Data Yet",
           "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         },
         {
-          "name": "Tank Name 3",
+          "name": "No Data Yet",
           "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png"
         }
       ]
