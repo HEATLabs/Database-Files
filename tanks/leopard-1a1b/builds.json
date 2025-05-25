@@ -13,83 +13,83 @@
           "slotNumber": 1,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 1 Name",
+          "moduleDescription": "Module 1 Description"
         },
         {
           "slotNumber": 2,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 2 Name",
+          "moduleDescription": "Module 2 Description"
         },
         {
           "slotNumber": 3,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 3 Name",
+          "moduleDescription": "Module 3 Description"
         },
         {
           "slotNumber": 4,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 4 Name",
+          "moduleDescription": "Module 4 Description"
         },
         {
           "slotNumber": 5,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 5 Name",
+          "moduleDescription": "Module 5 Description"
         },
         {
           "slotNumber": 6,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 6 Name",
+          "moduleDescription": "Module 6 Description"
         }
       ],
       "equipments": [
         {
           "slotNumber": 1,
           "equipmentIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/equipments/equipment-placeholder.png",
-          "equipmentName": "Equipment Name",
-          "equipmentDescription": "Equipment Description"
+          "equipmentName": "Equipment 1 Name",
+          "equipmentDescription": "Equipment 1 Description"
         },
         {
           "slotNumber": 2,
           "equipmentIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/equipments/equipment-placeholder.png",
-          "equipmentName": "Equipment Name",
-          "equipmentDescription": "Equipment Description"
+          "equipmentName": "Equipment 2 Name",
+          "equipmentDescription": "Equipment 2 Description"
         }
       ],
       "perks": [
         {
           "slotNumber": 1,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 1 Name",
+          "perkDescription": "Perk 1 Description"
         },
         {
           "slotNumber": 2,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 2 Name",
+          "perkDescription": "Perk 2 Description"
         },
         {
           "slotNumber": 3,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 3 Name",
+          "perkDescription": "Perk 3 Description"
         },
         {
           "slotNumber": 4,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 4 Name",
+          "perkDescription": "Perk 4 Description"
         }
       ]
     },
@@ -106,83 +106,83 @@
           "slotNumber": 1,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 1 Name",
+          "moduleDescription": "Module 1 Description"
         },
         {
           "slotNumber": 2,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 2 Name",
+          "moduleDescription": "Module 2 Description"
         },
         {
           "slotNumber": 3,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 3 Name",
+          "moduleDescription": "Module 3 Description"
         },
         {
           "slotNumber": 4,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 4 Name",
+          "moduleDescription": "Module 4 Description"
         },
         {
           "slotNumber": 5,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 5 Name",
+          "moduleDescription": "Module 5 Description"
         },
         {
           "slotNumber": 6,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 6 Name",
+          "moduleDescription": "Module 6 Description"
         }
       ],
       "equipments": [
         {
           "slotNumber": 1,
           "equipmentIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/equipments/equipment-placeholder.png",
-          "equipmentName": "Equipment Name",
-          "equipmentDescription": "Equipment Description"
+          "equipmentName": "Equipment 1 Name",
+          "equipmentDescription": "Equipment 1 Description"
         },
         {
           "slotNumber": 2,
           "equipmentIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/equipments/equipment-placeholder.png",
-          "equipmentName": "Equipment Name",
-          "equipmentDescription": "Equipment Description"
+          "equipmentName": "Equipment 2 Name",
+          "equipmentDescription": "Equipment 2 Description"
         }
       ],
       "perks": [
         {
           "slotNumber": 1,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 1 Name",
+          "perkDescription": "Perk 1 Description"
         },
         {
           "slotNumber": 2,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 2 Name",
+          "perkDescription": "Perk 2 Description"
         },
         {
           "slotNumber": 3,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 3 Name",
+          "perkDescription": "Perk 3 Description"
         },
         {
           "slotNumber": 4,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 4 Name",
+          "perkDescription": "Perk 4 Description"
         }
       ]
     },
@@ -199,83 +199,83 @@
           "slotNumber": 1,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 1 Name",
+          "moduleDescription": "Module 1 Description"
         },
         {
           "slotNumber": 2,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 2 Name",
+          "moduleDescription": "Module 2 Description"
         },
         {
           "slotNumber": 3,
           "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 3 Name",
+          "moduleDescription": "Module 3 Description"
         },
         {
           "slotNumber": 4,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 4 Name",
+          "moduleDescription": "Module 4 Description"
         },
         {
           "slotNumber": 5,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 5 Name",
+          "moduleDescription": "Module 5 Description"
         },
         {
           "slotNumber": 6,
           "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module Name",
-          "moduleDescription": "Module Description"
+          "moduleName": "Module 6 Name",
+          "moduleDescription": "Module 6 Description"
         }
       ],
       "equipments": [
         {
           "slotNumber": 1,
           "equipmentIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/equipments/equipment-placeholder.png",
-          "equipmentName": "Equipment Name",
-          "equipmentDescription": "Equipment Description"
+          "equipmentName": "Equipment 1 Name",
+          "equipmentDescription": "Equipment 1 Description"
         },
         {
           "slotNumber": 2,
           "equipmentIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/equipments/equipment-placeholder.png",
-          "equipmentName": "Equipment Name",
-          "equipmentDescription": "Equipment Description"
+          "equipmentName": "Equipment 2 Name",
+          "equipmentDescription": "Equipment 2 Description"
         }
       ],
       "perks": [
         {
           "slotNumber": 1,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 1 Name",
+          "perkDescription": "Perk 1 Description"
         },
         {
           "slotNumber": 2,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 2 Name",
+          "perkDescription": "Perk 2 Description"
         },
         {
           "slotNumber": 3,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 3 Name",
+          "perkDescription": "Perk 3 Description"
         },
         {
           "slotNumber": 4,
           "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
-          "perkName": "Perk Name",
-          "perkDescription": "Perk Description"
+          "perkName": "Perk 4 Name",
+          "perkDescription": "Perk 4 Description"
         }
       ]
     }
