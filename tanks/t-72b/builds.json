@@ -2,8 +2,8 @@
   "buildList": [
     {
       "buildNumber": 1,
-      "buildDisplay": false,
-      "buildFeatured": false,
+      "buildDisplay": true,
+      "buildFeatured": true,
       "buildName": "Build 1",
       "buildDescription": "Build Description",
       "buildAuthor": "PCWStats Team",
@@ -11,36 +11,42 @@
       "modules": [
         {
           "slotNumber": 1,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 2,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 3,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 4,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 5,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 6,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
@@ -89,7 +95,7 @@
     },
     {
       "buildNumber": 2,
-      "buildDisplay": false,
+      "buildDisplay": true,
       "buildFeatured": false,
       "buildName": "Build 2",
       "buildDescription": "Build Description",
@@ -98,36 +104,42 @@
       "modules": [
         {
           "slotNumber": 1,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 2,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 3,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 4,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 5,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 6,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
@@ -176,7 +188,7 @@
     },
     {
       "buildNumber": 3,
-      "buildDisplay": false,
+      "buildDisplay": true,
       "buildFeatured": false,
       "buildName": "Build 3",
       "buildDescription": "Build Description",
@@ -185,36 +197,42 @@
       "modules": [
         {
           "slotNumber": 1,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 2,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 3,
+          "moduleFeatured": true,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 4,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 5,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
         },
         {
           "slotNumber": 6,
+          "moduleFeatured": false,
           "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
           "moduleName": "Module Name",
           "moduleDescription": "Module Description"
