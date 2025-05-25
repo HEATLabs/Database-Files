@@ -2,6 +2,7 @@
   "buildList": [
     {
       "buildNumber": 1,
+      "buildDisplay": false,
       "buildName": "Build 1",
       "modules": [
         {
@@ -84,6 +85,7 @@
     },
     {
       "buildNumber": 2,
+      "buildDisplay": false,
       "buildName": "Build 2",
       "modules": [
         {
@@ -166,6 +168,7 @@
     },
     {
       "buildNumber": 3,
+      "buildDisplay": false,
       "buildName": "Build 3",
       "modules": [
         {
