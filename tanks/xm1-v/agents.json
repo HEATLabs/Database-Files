@@ -1,7 +1,7 @@
 {
   "agents": [
     {
-      "name": "Agent 1",
+      "name": "Chopper",
       "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/Chopper.png",
       "specialty": "Shock and Awe",
       "description": "Call in the support of Chopper's friend in the Air Force, the bomber will fly to the targeted position deal a lot of damage, and become dazed.",
