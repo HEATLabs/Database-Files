@@ -3,7 +3,10 @@
     {
       "buildNumber": 1,
       "buildDisplay": false,
+      "buildFeatured": false,
       "buildName": "Build 1",
+      "buildAuthor": "PCWStats Team",
+      "buildDate": "20-05-2025",
       "modules": [
         {
           "slotNumber": 1,
@@ -86,7 +89,10 @@
     {
       "buildNumber": 2,
       "buildDisplay": false,
+      "buildFeatured": false,
       "buildName": "Build 2",
+      "buildAuthor": "PCWStats Team",
+      "buildDate": "21-05-2025",
       "modules": [
         {
           "slotNumber": 1,
@@ -169,7 +175,10 @@
     {
       "buildNumber": 3,
       "buildDisplay": false,
+      "buildFeatured": false,
       "buildName": "Build 3",
+      "buildAuthor": "PCWStats Team",
+      "buildDate": "22-05-2025",
       "modules": [
         {
           "slotNumber": 1,
