@@ -278,6 +278,99 @@
           "perkDescription": "Perk 4 Description"
         }
       ]
+    },
+    {
+      "buildNumber": 4,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Impenetrable Blitz",
+      "buildDescription": "Making Blitz the cheesiest defender!",
+      "buildAuthor": "_VEN0M",
+      "buildDate": "21-05-2025",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Totten Flamme",
+          "moduleDescription": "Increases the radius of deadzone gerat based on how many active deadzones there are"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": true,
+          "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Vortex Phantasma",
+          "moduleDescription": "+2 Vampyr Drone Charges, -10% Vampyr Drone Damage, +17% Vampyr Drone cooldown between charges"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Todeswelle Strike",
+          "moduleDescription": "+15% Damage maximum, +15% Reticle size (standing), +15% Reticle size (max)"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": false,
+          "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Graviton Drift",
+          "moduleDescription": "When Leo 1A1B is stationary fpr 5 seconds, gains +30% reload speed"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Wunderkraft Core",
+          "moduleDescription": "Drone gives Leo 1A1B additional 20 energy on impact with ally or enemy"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Schwarzwind Power",
+          "moduleDescription": "Shells from the main guns of opponents that go through Deadzone Gerat have reduced penetration. -85% Penetration, -15% Deadzone Gerat Lifetime (s), +40% Deadzone Gerat energy cost"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/equipments/equipment-placeholder.png",
+          "equipmentName": "Equipment 1 Name",
+          "equipmentDescription": "Equipment 1 Description"
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/equipments/equipment-placeholder.png",
+          "equipmentName": "Equipment 2 Name",
+          "equipmentDescription": "Equipment 2 Description"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
+          "perkName": "Perk 1 Name",
+          "perkDescription": "Perk 1 Description"
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
+          "perkName": "Perk 2 Name",
+          "perkDescription": "Perk 2 Description"
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
+          "perkName": "Perk 3 Name",
+          "perkDescription": "Perk 3 Description"
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/perks/perk-placeholder.png",
+          "perkName": "Perk 4 Name",
+          "perkDescription": "Perk 4 Description"
+        }
+      ]
     }
   ]
 }
