@@ -2,7 +2,7 @@
   "buildList": [
     {
       "buildNumber": 1,
-      "buildDisplay": false,
+      "buildDisplay": true,
       "buildFeatured": false,
       "buildName": "Builds Coming Soon",
       "buildDescription": "Builds created by community members and top players are coming soon!",
