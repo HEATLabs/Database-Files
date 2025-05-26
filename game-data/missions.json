@@ -1,0 +1,711 @@
+{
+	"__type__": "cw::settings::commerce::CommerceSpecificationStorage",
+	"entitlements": [
+		{
+			"code": "play-5-battles-t62",
+			"friendlyName": "Play 5  battles on T-62",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-10-battles-t62",
+			"friendlyName": "Play 10  battles on T-62",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-20-battles-t62",
+			"friendlyName": "Play 20 battles on T-62",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-battles-t62-progress",
+			"friendlyName": "Play battles on T-62 progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-5-battles-1a1",
+			"friendlyName": "Play 5 battles on 1A1",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-10-battles-1a1",
+			"friendlyName": "Play 10 battles on 1A1",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-20-battles-1a1",
+			"friendlyName": "Play 20 battles on 1A1",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-battles-1a1-progress",
+			"friendlyName": "Play battles on 1A1 progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-5-battles-1a6",
+			"friendlyName": "Play 5 battles on 1A6",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-10-battles-1a6",
+			"friendlyName": "Play 10 battles on 1A6",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-20-battles-1a6",
+			"friendlyName": "Play 20 battles on 1A6",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-battles-1a6-progress",
+			"friendlyName": "Play battles on 1A6 progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-5-battles-m60a1",
+			"friendlyName": "Play 5 battles on M-60-A1",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-10-battles-m60a1",
+			"friendlyName": "Play 10 battles on M-60-A1",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-20-battles-m60a1",
+			"friendlyName": "Play 20 battles on M-60-A1",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "play-battles-m60a1-progress",
+			"friendlyName": "Play battles on M-60-A1 progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-5-games-kill-confirm",
+			"friendlyName": "Win 5 games in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-10-games-kill-confirm",
+			"friendlyName": "Win 10 games in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-20-games-kill-confirm",
+			"friendlyName": "Win 20 games in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-games-kill-confirm-progress",
+			"friendlyName": "Win games in Kill confirm progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "use-demolition-charge-ability-5-times",
+			"friendlyName": "Use Demolition charge ability 5 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "use-demolition-charge-ability-10-times",
+			"friendlyName": "Use Demolition charge ability 10 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "use-demolition-charge-ability-20-times",
+			"friendlyName": "Use Demolition charge ability 20 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "use-demolition-charge-ability-progress",
+			"friendlyName": "Use Demolition charge ability progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-5-games-conquest",
+			"friendlyName": "Win 5 games in Conquest",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-10-games-conquest",
+			"friendlyName": "Win 10 games in Conquest",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-20-games-conquest",
+			"friendlyName": "Win 20 games in Conquest",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-games-conquest-progress",
+			"friendlyName": "Win games in Conquest progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-5-games-domination",
+			"friendlyName": "Win 5 games in Domination",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-10-games-domination",
+			"friendlyName": "Win 10 games in Domination",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-20-games-domination",
+			"friendlyName": "Win 20 games in Domination",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "win-games-domination-progress",
+			"friendlyName": "Win games in Domination progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "deny-5-kills-kill-confirm",
+			"friendlyName": "Deny 5 kills in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "deny-10-kills-kill-confirm",
+			"friendlyName": "Deny 10 kills in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "deny-20-kills-kill-confirm",
+			"friendlyName": "Deny 20 kills in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "deny-kills-kill-confirm-progress",
+			"friendlyName": "Deny kills in Kill confirm-progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "confirm-5-kills-kill-confirm",
+			"friendlyName": "Confirm 5 kills in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "confirm-10-kills-kill-confirm",
+			"friendlyName": "Confirm 10 kills in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "confirm-20-kills-kill-confirm",
+			"friendlyName": "Confirm 20 kills in Kill confirm",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "confirm-kills-kill-confirm-progress",
+			"friendlyName": "Confirm kills in Kill confirm progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "kill-20-enemies",
+			"friendlyName": "Kill 20 enemies",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "kill-50-enemies",
+			"friendlyName": "Kill 50 enemies",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "kill-100-enemies",
+			"friendlyName": "Kill 100 enemies",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "kill-enemies-progress",
+			"friendlyName": "Kill enemies progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "heal-allies-1000",
+			"friendlyName": "Heal allies for 1000",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "heal-allies-5000",
+			"friendlyName": "Heal allies for 5000",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "heal-allies-10000",
+			"friendlyName": "Heal allies for 10000",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "heal-allies-progress",
+			"friendlyName": "Heal allies progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "block-ricochet-1000-dmg",
+			"friendlyName": "Block/Ricochet 1000 amount of damage",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "block-ricochet-5000-dmg",
+			"friendlyName": "Block/Ricochet 5000 amount of damage",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "block-ricochet-10000-dmg",
+			"friendlyName": "Block/Ricochet 10000 amount of damage",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "block-ricochet-dmg-progress",
+			"friendlyName": "Block/Ricochet amount of damage progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "ramming-enemy-to-death-1-times",
+			"friendlyName": "Ramming an enemy to death 1 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "ramming-enemy-to-death-5-times",
+			"friendlyName": "Ramming an enemy to death 5 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "ramming-enemy-to-death-10-times",
+			"friendlyName": "Ramming an enemy to death 10 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "ramming-enemy-to-death-progress",
+			"friendlyName": "Ramming an enemy to death progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "revenge-1-times",
+			"friendlyName": "Kill an enemy that killed you in a match 1 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "revenge-5-times",
+			"friendlyName": "Kill an enemy that killed you in a match 5 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "revenge-10-times",
+			"friendlyName": "Kill an enemy that killed you in a match 10 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "revenge-progress",
+			"friendlyName": "Kill an enemy that killed you in a match progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "first-blood-1-times",
+			"friendlyName": "Make first teamkill in a match 1 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "first-blood-5-times",
+			"friendlyName": "Make first teamkill in a match 5 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "first-blood-10-times",
+			"friendlyName": "Make first teamkill in a match 10 times",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		},
+		{
+			"code": "first-blood-progress",
+			"friendlyName": "Make first teamkill in a match progress",
+			"price": {
+				"currencies": []
+			},
+			"tags": [
+				"Achievement",
+				"NoCheat"
+			]
+		}
+	],
+	"products": [],
+	"promos": []
+}
