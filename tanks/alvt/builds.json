@@ -2,10 +2,10 @@
   "buildList": [
     {
       "buildNumber": 1,
-      "buildDisplay": true,
-      "buildFeatured": true,
-      "buildName": "Build 1",
-      "buildDescription": "Build Description",
+      "buildDisplay": false,
+      "buildFeatured": false,
+      "buildName": "Builds Coming Soon",
+      "buildDescription": "Builds created by community members and top players are coming soon!",
       "buildAuthor": "PCWStats Team",
       "buildDate": "20-05-2025",
       "modules": [
@@ -95,10 +95,10 @@
     },
     {
       "buildNumber": 2,
-      "buildDisplay": true,
+      "buildDisplay": false,
       "buildFeatured": false,
-      "buildName": "Build 2",
-      "buildDescription": "Build Description",
+      "buildName": "Builds Coming Soon",
+      "buildDescription": "Builds created by community members and top players are coming soon!",
       "buildAuthor": "PCWStats Team",
       "buildDate": "21-05-2025",
       "modules": [
@@ -188,10 +188,10 @@
     },
     {
       "buildNumber": 3,
-      "buildDisplay": true,
+      "buildDisplay": false,
       "buildFeatured": false,
-      "buildName": "Build 3",
-      "buildDescription": "Build Description",
+      "buildName": "Builds Coming Soon",
+      "buildDescription": "Builds created by community members and top players are coming soon!",
       "buildAuthor": "PCWStats Team",
       "buildDate": "22-05-2025",
       "modules": [
