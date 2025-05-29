@@ -2,14 +2,14 @@
   "agents": [
     {
       "name": "Anansi",
-      "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/agents/Anansi.png",
+      "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Anansi.png",
       "specialty": "Spectre Gunship",
       "description": "Call in the assistance of an AC-130H Spectre gunship with a 40mm autocannon and a limited amount of ammunition for its precision 105mm gun",
       "story": "A battlefield control specialist with a gunship providing backup fire. A tough cool kid from a Carribean mix of cultures, Anansi grew up watching her seamstress mom work miracles with a needle and thread. Now she's working her own kind of miracles, making money for her family and avoiding bad company. She's all laughs and stories at the bar, but ask anything personal and she clams right up, that's none of your business. And don't gamble with her unless you want to lose your shirt.",
       "compatibleTanks": [
         {
           "name": "AGDS",
-          "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/agds/icon_agds.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/agds/icon_agds.png"
         }
       ]
     }
