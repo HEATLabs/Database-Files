@@ -314,7 +314,7 @@
           "moduleFeatured": false,
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
           "moduleName": "Graviton Drift",
-          "moduleDescription": "When Leo 1A1B is stationary fpr 5 seconds, gains +30% reload speed"
+          "moduleDescription": "When Leo 1A1B is stationary for 4 seconds, gains +30% reload speed"
         },
         {
           "slotNumber": 5,
@@ -329,6 +329,99 @@
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
           "moduleName": "Schwarzwind Power",
           "moduleDescription": "Shells from the main guns of opponents that go through Deadzone Gerat have reduced penetration. -85% Penetration, -15% Deadzone Gerat Lifetime (s), +40% Deadzone Gerat energy cost"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/equipments/equipment-placeholder.png",
+          "equipmentName": "Equipment 1 Name",
+          "equipmentDescription": "Equipment 1 Description"
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/equipments/equipment-placeholder.png",
+          "equipmentName": "Equipment 2 Name",
+          "equipmentDescription": "Equipment 2 Description"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/perks/perk-placeholder.png",
+          "perkName": "Perk 1 Name",
+          "perkDescription": "Perk 1 Description"
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/perks/perk-placeholder.png",
+          "perkName": "Perk 2 Name",
+          "perkDescription": "Perk 2 Description"
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/perks/perk-placeholder.png",
+          "perkName": "Perk 3 Name",
+          "perkDescription": "Perk 3 Description"
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/perks/perk-placeholder.png",
+          "perkName": "Perk 4 Name",
+          "perkDescription": "Perk 4 Description"
+        }
+      ]
+    },
+    {
+      "buildNumber": 5,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Buffed Build, Overpowered",
+      "buildDescription": "Nothing else compares to this build!",
+      "buildAuthor": "IAmEdWards",
+      "buildDate": "26-02-2025",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Manafeld",
+          "moduleDescription": "Deadzone gerat restores energy to all allies that are standing inside the zone. -15% Deadzone Gerat damage."
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Lich Blight",
+          "moduleDescription": "New behavior Energy managing drone. Deploy a drone that is capable of harnessing the energy of an opposing vehicle, to then release that energy of a friendly vehicle or itself to repair it. Stays alive after impact with any target. The player controls the movement of the drone, which follows the commands of the player. Enemies can destroy the drone by dealing damage to it, and the drone is susceptible to environmental damage from status effects and world effects."
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Todeswelle Strike",
+          "moduleDescription": "+15% Damage maximum, +15% Reticle size standing, +15% reticle size maximum"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Graviton Drift",
+          "moduleDescription": "When Leo 1A1B is stationary for 4 seconds, gains +30% reload speed"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Eisengeist Nexus",
+          "moduleDescription": "Killing a first enemy on a spawn will decrease cost of abilities by 7%. Restores on death."
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
+          "moduleName": "Phantomwelle Driver",
+          "moduleDescription": "+50% Deadzone Gerat cooldown (s), -50% Vampyr Drone cooldown (s)"
         }
       ],
       "equipments": [
