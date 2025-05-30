@@ -2,54 +2,54 @@
   "buildList": [
     {
       "buildNumber": 1,
-      "buildDisplay": false,
+      "buildDisplay": true,
       "buildFeatured": false,
-      "buildName": "Builds Coming Soon",
-      "buildDescription": "Builds created by community members and top players are coming soon!",
-      "buildAuthor": "PCWStats Team",
-      "buildDate": "20-05-2025",
+      "buildName": "XM1V Build-",
+      "buildDescription": "This build allows you to run the most competitive tank build without losing much in terms of ability strength. Make sure to run the large repair kit with this build. ",
+      "buildAuthor": "IAmEdWards",
+      "buildDate": "01-03-2025",
       "modules": [
         {
           "slotNumber": 1,
           "moduleFeatured": true,
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module 1 Name",
-          "moduleDescription": "Module 1 Description"
+          "moduleName": "Minefield Packs",
+          "moduleDescription": "Deploys a minefield world effect at the target location. Any opponent driving over it takes Blast damage and damage to their tracks. +4 Mines thrown."
         },
         {
           "slotNumber": 2,
           "moduleFeatured": true,
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module 2 Name",
-          "moduleDescription": "Module 2 Description"
+          "moduleName": "DemoX",
+          "moduleDescription": "Launches two large bombs at the target location. Upon impact, they create massive blasts. -10% Energy cost"
         },
         {
           "slotNumber": 3,
           "moduleFeatured": true,
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module 3 Name",
-          "moduleDescription": "Module 3 Description"
+          "moduleName": "Aegis",
+          "moduleDescription": "+24% Hit points, +15% Repair kit heal, -20% Blast resistance, -20% Fire resistance, -20% Radiation resistance, -20% Shock resistance, +10% Max Energy. If the tank takes more than 3000 damage before being destroyed, it gains a 30% boost to damage, a 40% increase to penetration, and a 20% reduction to reload time for 30s. The effect has a 40s cooldown."
         },
         {
           "slotNumber": 4,
           "moduleFeatured": false,
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module 4 Name",
-          "moduleDescription": "Module 4 Description"
+          "moduleName": "Bulwark",
+          "moduleDescription": "+15% Hit points, -15% Incoming crit. multiplier (ammo rack), -15% Incoming crit. multiplier ( fuel tank), -15% Incoming crit. multiplier (engine), -7% Hull frontal armor, -7% Hull side armor, -7% Hull rear armor"
         },
         {
           "slotNumber": 5,
           "moduleFeatured": false,
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module 5 Name",
-          "moduleDescription": "Module 5 Description"
+          "moduleName": "Sova",
+          "moduleDescription": "+15% Forward speed (km/h), -8% Ramming damage resistance (front)"
         },
         {
           "slotNumber": 6,
           "moduleFeatured": false,
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
-          "moduleName": "Module 6 Name",
-          "moduleDescription": "Module 6 Description"
+          "moduleName": "Ravage",
+          "moduleDescription": "+15% Damage, -10% Forward speed (km/h), +10% Shell ammo crit. multiplier, +10% Shell engine crit. multiplier, +10% Shell fuel crit. multiplier"
         }
       ],
       "equipments": [
