@@ -9,11 +9,13 @@
       "compatibleTanks": [
         {
           "name": "Leopard 2FK",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-2fk/icon_leopard-2fk.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-2fk/icon_leopard-2fk.png",
+          "slug": "leopard-2fk"
         },
         {
           "name": "Leopard 1A6A1",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-1a6a1/icon_leopard-1a6a1.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-1a6a1/icon_leopard-1a6a1.png",
+          "slug": "leopard-1a6a1"
         }
       ]
     }

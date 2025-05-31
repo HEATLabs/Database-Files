@@ -9,15 +9,18 @@
       "compatibleTanks": [
         {
           "name": "No Data Yet",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png",
+          "slug": "fv4030x"
         },
         {
           "name": "No Data Yet",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png",
+          "slug": "fv4030x"
         },
         {
           "name": "No Data Yet",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png",
+          "slug": "fv4030x"
         }
       ]
     }

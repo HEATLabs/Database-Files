@@ -9,11 +9,13 @@
       "compatibleTanks": [
         {
           "name": "BAT-4M",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/bat-4m/icon_bat-4m.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/bat-4m/icon_bat-4m.png",
+          "slug": "bat-4m"
         },
         {
           "name": "M60A3E2",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m60a3e2/icon_m60a3e2.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m60a3e2/icon_m60a3e2.png",
+          "slug": "m60a3e2"
         }
       ]
     }

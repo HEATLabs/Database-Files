@@ -9,15 +9,18 @@
       "compatibleTanks": [
         {
           "name": "XM551",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m551/icon_xm551.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m551/icon_xm551.png",
+          "slug": "xm551"
         },
         {
           "name": "Leopard 1A1B",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-1a1b/icon_leopard-1a1b.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-1a1b/icon_leopard-1a1b.png",
+          "slug": "leopard-1a1b"
         },
         {
           "name": "M3A1 Bradley",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m3a1-bradley/icon_m3a1-bradley.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m3a1-bradley/icon_m3a1-bradley.png",
+          "slug": "m3a1-bradley"
         }
       ]
     }

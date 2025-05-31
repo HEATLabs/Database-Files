@@ -9,7 +9,8 @@
       "compatibleTanks": [
         {
           "name": "AGDS",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/agds/icon_agds.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/agds/icon_agds.png",
+          "slug": "agds"
         }
       ]
     }

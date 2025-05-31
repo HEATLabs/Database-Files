@@ -9,15 +9,18 @@
       "compatibleTanks": [
         {
           "name": "T-72AU",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/t-72au/icon_t-72au.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/t-72au/icon_t-72au.png",
+          "slug": "t-72au"
         },
         {
           "name": "T-62AV",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/t-62av/icon_t-62av.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/t-62av/icon_t-62av.png",
+          "slug": "t-62av"
         },
         {
           "name": "Object 287",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/object-287/icon_object-287.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/object-287/icon_object-287.png",
+          "slug": "object-287"
         }
       ]
     }

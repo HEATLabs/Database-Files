@@ -9,11 +9,13 @@
       "compatibleTanks": [
         {
           "name": "M1E1",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m1e1/icon_m1e1.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m1e1/icon_m1e1.png",
+          "slug": "m1e1"
         },
         {
           "name": "XM1-V",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-v/icon_xm1-v.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-v/icon_xm1-v.png",
+          "slug": "xm1-v"
         }
       ]
     }

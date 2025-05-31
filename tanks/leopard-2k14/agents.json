@@ -9,11 +9,13 @@
       "compatibleTanks": [
         {
           "name": "Leopard 2K14",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-2k14/icon_leopard-2k14.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-2k14/icon_leopard-2k14.png",
+          "slug": "leopard-2k14"
         },
         {
           "name": "M60E2",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m60e2/icon_m60e2.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m60e2/icon_m60e2.png",
+          "slug": "m60e2"
         }
       ]
     }

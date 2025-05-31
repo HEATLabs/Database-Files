@@ -9,15 +9,18 @@
       "compatibleTanks": [
         {
           "name": "XM1-90",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-90/icon_xm1-90.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-90/icon_xm1-90.png",
+          "slug": "xm1-90"
         },
         {
           "name": "HSTV-L",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/hstv-l/icon_hstv-l.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/hstv-l/icon_hstv-l.png",
+          "slug": "hstv-l"
         },
         {
           "name": "XM808 Twister",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm808-twister/icon_xm808-twister.png"
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm808-twister/icon_xm808-twister.png",
+          "slug": "xm808-twister"
         }
       ]
     }
