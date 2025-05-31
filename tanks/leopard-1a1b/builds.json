@@ -25,7 +25,7 @@
         },
         {
           "slotNumber": 3,
-          "moduleFeatured": true,
+          "moduleFeatured": false,
           "moduleIcon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/upgrades/upgrade-placeholder.png",
           "moduleName": "Todeswelle Strike",
           "moduleDescription": "+15% Damage maximum, +15% Reticle size (standing), +15% Reticle size (max)"
