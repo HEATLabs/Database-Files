@@ -91,13 +91,13 @@
       "team_tanks": [
         {
           "player_name": "sirwars_2017",
-          "tank_name": "Tank Name 1",
-          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png"
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m1e1/icon_m1e1.png"
         },
         {
           "player_name": "__Max1mus__",
-          "tank_name": "Tank Name 2",
-          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png"
+          "tank_name": "Leopard 2FK",
+          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-2fk/icon_leopard-2fk.png"
         },
         {
           "player_name": "Blitzwing",
@@ -106,18 +106,18 @@
         },
         {
           "player_name": "Pakasto9",
-          "tank_name": "Tank Name 4",
-          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png"
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m1e1/icon_m1e1.png"
         },
         {
           "player_name": "__4lpha__",
-          "tank_name": "Tank Name 5",
-          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png"
+          "tank_name": "XM1-90",
+          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-90/icon_xm1-90.png"
         },
         {
           "player_name": "_KeinInternet26_",
-          "tank_name": "Tank Name 6",
-          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.png"
+          "tank_name": "XM1-90",
+          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-90/icon_xm1-90.png"
         }
       ]
     }
