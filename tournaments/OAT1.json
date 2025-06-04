@@ -11,8 +11,8 @@
       "team_tanks": [
         {
           "player_name": "Benso_Primus",
-          "tank_name": "Kent (XM1-90)",
-          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-90/icon_xm1-90.png"
+          "tank_name": "Blitz (Leopard 1A1B)",
+          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-1a1b/icon_leopard-1a1b.png"
         },
         {
           "player_name": "__Link__",
@@ -21,13 +21,13 @@
         },
         {
           "player_name": "Scatter_",
-          "tank_name": "Chopper (M1E1)",
-          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m1e1/icon_m1e1.png"
+          "tank_name": "Kent (XM1-90)",
+          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-90/icon_xm1-90.png"
         },
         {
           "player_name": "RickOShe",
-          "tank_name": "Blitz (Leopard 1A1B)",
-          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/leopard-1a1b/icon_leopard-1a1b.png"
+          "tank_name": "Chopper (M1E1)",
+          "tank_image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m1e1/icon_m1e1.png"
         },
         {
           "player_name": "Leonlein",
