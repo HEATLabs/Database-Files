@@ -2,19 +2,19 @@
   "agents": [
     {
       "name": "Ember",
-      "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Ember.png",
+      "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Ember.webp",
       "specialty": "Trophy Time",
       "description": " Call in protection, requesting the drop of a turret that intercepts incoming projectiles, and she rushes towards allies with a speed boost",
       "story": "A vanguard supporter who protects allies in combat, using her turret to intercept enemy fire. She's annoyingly flawless: a suburban poster girl, she shines everywhere, a prom queen, a softball captain, and now an Agent showing up for her team right when they need her. Always ready for action with military precision and athletic grace, she's the first to jump in. But there's something vulnerable beneath that polished exterior, so be there for her, and you might learn her secrets.",
       "compatibleTanks": [
         {
           "name": "BAT-4M",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/bat-4m/icon_bat-4m.png",
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/bat-4m/icon_bat-4m.webp",
           "slug": "bat-4m"
         },
         {
           "name": "M60A3E2",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m60a3e2/icon_m60a3e2.png",
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m60a3e2/icon_m60a3e2.webp",
           "slug": "m60a3e2"
         }
       ]
