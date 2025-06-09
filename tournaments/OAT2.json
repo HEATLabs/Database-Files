@@ -403,7 +403,7 @@
           },
           {
             "match_id": 14,
-            "team1": "BLUTRAUSCH.",
+            "team1": "BLUTRAUSCH",
             "team2": "KLTK",
             "team1Score": 2,
             "team2Score": 0,
@@ -464,7 +464,7 @@
           },
           {
             "match_id": 24,
-            "team1": "magnificent Boys",
+            "team1": "Magnificent Boys",
             "team2": "CCO",
             "team1Score": 0,
             "team2Score": 0,
@@ -547,7 +547,7 @@
           {
             "match_id": 41,
             "team1": "Tank Edet I Strelyayet",
-            "team2": "Magnificent boys",
+            "team2": "Magnificent Boys",
             "team1Score": 0,
             "team2Score": 2,
             "winner": "Magnificent Boys"
