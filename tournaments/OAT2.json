@@ -243,6 +243,7 @@
             "team1Score": 2,
             "team2Score": 0,
             "winner": "3Mid"
+          },
           {
             "match_id": 18,
             "team1": "404 Name not found",
@@ -435,7 +436,8 @@
             "team2": "Purple",
             "team1Score": 0,
             "team2Score": 2,
-            "winner": "Purple",
+            "winner": "Purple"
+          },
           {
             "match_id": 27,
             "team1": "CLOWNS",
