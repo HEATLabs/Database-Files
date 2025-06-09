@@ -327,7 +327,7 @@
         "round_name": "Quarterfinals",
         "matches": [
           {
-            "match_id": 46,
+            "match_id": 45,
             "team1": "Pincer",
             "team2": "3Mid",
             "team1Score": 1,
@@ -335,7 +335,7 @@
             "winner": "3Mid"
           },
           {
-            "match_id": 45,
+            "match_id": 46,
             "team1": "TEAM48",
             "team2": "CashBack",
             "team1Score": 2,
@@ -435,7 +435,7 @@
             "team1": "idk",
             "team2": "Purple",
             "team1Score": 0,
-            "team2Score": 2,
+            "team2Score": 0,
             "winner": "Purple"
           },
           {
@@ -587,7 +587,7 @@
             "winner": "Large"
           },
           {
-            "match_id": 54,
+            "match_id": 47,
             "team1": "Pincer",
             "team2": "PROBITIE",
             "team1Score": 2,
