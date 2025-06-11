@@ -13,6 +13,11 @@
           "slug": "m60a3e2"
         },
         {
+          "name": "M60A3E2 Bot",
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m60a3e2-bot/icon_m60a3e2-bot.webp",
+          "slug": "m60a3e2-bot"
+        },
+        {
           "name": "BAT-4M",
           "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/bat-4m/icon_bat-4m.webp",
           "slug": "bat-4m"
