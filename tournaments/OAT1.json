@@ -131,7 +131,7 @@
             "match_id": 1,
             "team1": "TEAM48",
             "team2": "Bundeswehr",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "TEAM48"
           },
@@ -139,15 +139,15 @@
             "match_id": 2,
             "team1": "AURORA",
             "team2": "Eiserne Einheit",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 1,
             "winner": "AURORA"
           },
           {
             "match_id": 3,
             "team1": "Negus",
             "team2": "Division of Reaper",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "Negus"
           },
@@ -155,7 +155,7 @@
             "match_id": 4,
             "team1": "Galgany",
             "team2": "DaNeVajno",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "Galgany"
           },
@@ -164,22 +164,22 @@
             "team1": "3Mid",
             "team2": "B-YOU",
             "team1Score": 0,
-            "team2Score": 2,
+            "team2Score": 3,
             "winner": "B-YOU"
           },
           {
             "match_id": 6,
             "team1": "pwnz",
             "team2": "PROJECT_LAST",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 1,
             "winner": "pwnz"
           },
           {
             "match_id": 7,
             "team1": "Degenerates",
-            "team2": "R-Slayers_F",
-            "team1Score": 2,
+            "team2": "R_Slayers_F",
+            "team1Score": 0,
             "team2Score": 0,
             "winner": "Degenerates"
           },
@@ -187,7 +187,7 @@
             "match_id": 8,
             "team1": "OnlyOnce",
             "team2": "NO HOOK",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "OnlyOnce"
           },
@@ -195,7 +195,7 @@
             "match_id": 9,
             "team1": "SMILE",
             "team2": "Kindergarten matinee party",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "SMILE"
           },
@@ -203,7 +203,7 @@
             "match_id": 10,
             "team1": "HOPE",
             "team2": "overlycarlson",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "HOPE"
           },
@@ -212,30 +212,30 @@
             "team1": "shift2sprint",
             "team2": "Radar Assisting Yueyang",
             "team1Score": 0,
-            "team2Score": 2,
+            "team2Score": 3,
             "winner": "Radar Assisting Yueyang"
           },
           {
             "match_id": 12,
             "team1": "Traktoristi",
             "team2": "Pincer",
-            "team1Score": 0,
-            "team2Score": 2,
+            "team1Score": 1,
+            "team2Score": 3,
             "winner": "Pincer"
           },
           {
             "match_id": 13,
             "team1": "Gang Albanii",
             "team2": "Die Büchsenöffner",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 1,
             "winner": "Gang Albanii"
           },
           {
             "match_id": 14,
             "team1": "MONOLIITH",
             "team2": "Temnoe nefiltrovannoe",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "MONOLIITH"
           },
@@ -243,15 +243,15 @@
             "match_id": 15,
             "team1": "PINGU",
             "team2": "MERCY",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 2,
             "winner": "PINGU"
           },
           {
             "match_id": 16,
             "team1": "ROBBERS",
             "team2": "Tankforce Six",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "ROBBERS"
           }
@@ -264,7 +264,7 @@
             "match_id": 17,
             "team1": "TEAM48",
             "team2": "AURORA",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "TEAM48"
           },
@@ -272,15 +272,15 @@
             "match_id": 18,
             "team1": "Negus",
             "team2": "Galgany",
-            "team1Score": 0,
-            "team2Score": 2,
+            "team1Score": 2,
+            "team2Score": 3,
             "winner": "Galgany"
           },
           {
             "match_id": 19,
             "team1": "B-YOU",
             "team2": "pwnz",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "B-YOU"
           },
@@ -288,15 +288,15 @@
             "match_id": 20,
             "team1": "Degenerates",
             "team2": "OnlyOnce",
-            "team1Score": 0,
-            "team2Score": 2,
+            "team1Score": 1,
+            "team2Score": 3,
             "winner": "OnlyOnce"
           },
           {
             "match_id": 21,
             "team1": "SMILE",
             "team2": "HOPE",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "SMILE"
           },
@@ -305,23 +305,23 @@
             "team1": "Radar Assisting Yueyang",
             "team2": "Pincer",
             "team1Score": 0,
-            "team2Score": 2,
+            "team2Score": 3,
             "winner": "Pincer"
           },
           {
             "match_id": 23,
             "team1": "Gang Albanii",
             "team2": "MONOLIITH",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 2,
             "winner": "Gang Albanii"
           },
           {
             "match_id": 24,
             "team1": "PINGU",
             "team2": "ROBBERS",
-            "team1Score": 0,
-            "team2Score": 2,
+            "team1Score": 2,
+            "team2Score": 3,
             "winner": "ROBBERS"
           }
         ]
@@ -333,23 +333,23 @@
             "match_id": 25,
             "team1": "TEAM48",
             "team2": "Galgany",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 1,
             "winner": "TEAM48"
           },
           {
             "match_id": 26,
             "team1": "B-YOU",
             "team2": "OnlyOnce",
-            "team1Score": 0,
-            "team2Score": 2,
+            "team1Score": 1,
+            "team2Score": 3,
             "winner": "OnlyOnce"
           },
           {
             "match_id": 27,
             "team1": "SMILE",
             "team2": "Pincer",
-            "team1Score": 2,
+            "team1Score": 3,
             "team2Score": 0,
             "winner": "SMILE"
           },
@@ -358,7 +358,7 @@
             "team1": "Gang Albanii",
             "team2": "ROBBERS",
             "team1Score": 0,
-            "team2Score": 2,
+            "team2Score": 3,
             "winner": "ROBBERS"
           }
         ]
@@ -370,16 +370,16 @@
             "match_id": 29,
             "team1": "TEAM48",
             "team2": "OnlyOnce",
-            "team1Score": 0,
-            "team2Score": 2,
+            "team1Score": 2,
+            "team2Score": 3,
             "winner": "OnlyOnce"
           },
           {
             "match_id": 30,
             "team1": "SMILE",
             "team2": "ROBBERS",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 2,
             "winner": "SMILE"
           }
         ]
@@ -391,8 +391,8 @@
             "match_id": 31,
             "team1": "TEAM48",
             "team2": "ROBBERS",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 1,
             "winner": "TEAM48"
           }
         ]
@@ -404,8 +404,8 @@
             "match_id": 32,
             "team1": "OnlyOnce",
             "team2": "SMILE",
-            "team1Score": 2,
-            "team2Score": 0,
+            "team1Score": 3,
+            "team2Score": 1,
             "winner": "OnlyOnce"
           }
         ]
