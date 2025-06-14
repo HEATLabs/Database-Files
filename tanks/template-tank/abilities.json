@@ -1,0 +1,30 @@
+{
+  "agentAbility": [
+    {
+      "name": "Ability Name",
+      "description": "Ability Description",
+      "icon": "path/to/icon",
+      "video": "path/to/video"
+    }
+  ],
+  "tankAbilities": [
+    {
+      "name": "Ability Name",
+      "description": "Ability Description",
+      "icon": "path/to/icon",
+      "video": "path/to/video"
+    },
+    {
+      "name": "Ability Name",
+      "description": "Ability Description",
+      "icon": "path/to/icon",
+      "video": "path/to/video"
+    },
+    {
+      "name": "Ability Name",
+      "description": "Ability Description",
+      "icon": "path/to/icon",
+      "video": "path/to/video"
+    }
+  ]
+}
