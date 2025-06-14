@@ -7,6 +7,14 @@
       "video": "path/to/video"
     }
   ],
+  "primaryAttack": [
+    {
+      "name": "Attack Name",
+      "description": "Attack Description",
+      "icon": "path/to/icon",
+      "video": "path/to/video"
+    }
+  ],
   "tankAbilities": [
     {
       "name": "Ability Name",
