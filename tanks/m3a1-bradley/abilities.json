@@ -9,22 +9,22 @@
   ],
   "primaryAttack": [
     {
-      "name": "Coming Soon",
-      "description": "Attack Coming Soon",
+      "name": "Autocannon",
+      "description": "Fires large-caliber armor-piercing rounds capable of piercing lightly armored vehicles.",
       "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
       "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp"
     }
   ],
   "tankAbilities": [
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "TOW ATGM",
+      "description": "Fires up to 2 tube launched, optically tracked, wire-guided missiles with excellent anti-armor capabilities.",
       "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
       "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp"
     },
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Smoke Launchers",
+      "description": "Deploy a smoke screen in front of the vehicle to obscure enemy vision.",
       "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
       "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp"
     }
