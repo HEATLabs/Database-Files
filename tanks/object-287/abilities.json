@@ -4,7 +4,7 @@
       "name": "Scavenge",
       "description": "Raketa loads his gun with scrap and boosts the engine. While the ability is active, he fires canister shots and his boost is increased.",
       "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/t-62av/abilities/raketa_scavange.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp"
+      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
@@ -12,7 +12,7 @@
       "name": "Coming Soon",
       "description": "Attack Coming Soon",
       "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp"
+      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
@@ -20,13 +20,13 @@
       "name": "Coming Soon",
       "description": "Ability Coming Soon",
       "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp"
+      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
     },
     {
       "name": "Coming Soon",
       "description": "Ability Coming Soon",
       "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp"
+      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ]
 }
