@@ -9,7 +9,7 @@
       "compatibleTanks": [
         {
           "name": "XM551",
-          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m551/icon_xm551.webp",
+          "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm551/icon_xm551.webp",
           "slug": "xm551"
         },
         {
