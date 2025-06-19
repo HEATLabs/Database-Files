@@ -3,7 +3,7 @@
   "top_3_teams": [
     {
       "team_name": "OnlyOnce",
-      "team_logo": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagenotfound.webp",
+      "team_logo": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/logo/logo.webp",
       "team_captain": "Benso_Primus",
       "team_description": "We are all part of a world of tanks team.",
       "team_motto": "Team Motto",
@@ -43,7 +43,7 @@
     },
     {
       "team_name": "SMILE",
-      "team_logo": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagenotfound.webp",
+      "team_logo": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/logo/logo.webp",
       "team_captain": "External007",
       "team_description": "Team Description",
       "team_motto": "Team Motto",
