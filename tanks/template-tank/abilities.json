@@ -3,30 +3,30 @@
     {
       "name": "Ability Name",
       "description": "Ability Description",
-      "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
+      "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/imagecomingsoon.webp",
+      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
       "name": "Attack Name",
       "description": "Attack Description",
-      "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
+      "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/imagecomingsoon.webp",
+      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
     {
       "name": "Ability Name",
       "description": "Ability Description",
-      "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
+      "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/imagecomingsoon.webp",
+      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/videocomingsoon.webm"
     },
     {
       "name": "Ability Name",
       "description": "Ability Description",
-      "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
+      "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/imagecomingsoon.webp",
+      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ]
 }

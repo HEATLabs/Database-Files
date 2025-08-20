@@ -3,30 +3,30 @@
     {
       "name": "Shock and Awe",
       "description": "Chopper calls in a favor from his friend in the Air Force: a B-52 bomber flies over and drops its payload on the indicated point.",
-      "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-v/abilities/air_bomber.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
+      "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/tanks/xm1-v/abilities/air_bomber.webp",
+      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
       "name": "Single Shot",
       "description": "Requires reload after each shot, most accurate when stationary.",
-      "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-v/abilities/singleshot.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
+      "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/tanks/xm1-v/abilities/singleshot.webp",
+      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
     {
       "name": "Deploy Mines",
       "description": "Deploys a minefield at the target location. Opponents driving over it trigger Blast Damage across the field adn take damage to their tracks.",
-      "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-v/abilities/mines.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
+      "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/tanks/xm1-v/abilities/mines.webp",
+      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/videocomingsoon.webm"
     },
     {
       "name": "Demolition Charges",
       "description": "Launches two large bombs at the target location. Upon impact, they create massive blasts.",
-      "icon": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/xm1-v/abilities/demolition_charges.webp",
-      "video": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/videocomingsoon.webm"
+      "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/tanks/xm1-v/abilities/demolition_charges.webp",
+      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/videocomingsoon.webm"
     }
   ]
 }
