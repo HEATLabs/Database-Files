@@ -370,10 +370,10 @@
           },
           {
             "match_id": 53,
-            "team1": "Large",
-            "team2": "3Mid",
-            "team1Score": 1,
-            "team2Score": 2,
+            "team1": "3Mid",
+            "team2": "Large",
+            "team1Score": 2,
+            "team2Score": 1,
             "winner": "3Mid"
           }
         ]
