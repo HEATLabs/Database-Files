@@ -2,19 +2,19 @@
   "agents": [
     {
       "name": "Udarnik",
-      "image": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/placeholder/imagecomingsoon.webp",
+      "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images@main/placeholder/imagecomingsoon.webp",
       "specialty": "To be announced",
       "description": "Information about this agent's abilities is currently unavailable.",
       "story": "Unknown Agent Story",
       "compatibleTanks": [
         {
           "name": "T-62MS",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images-Tanks@main/tanks/t-62ms/icon_t-62ms.webp",
+          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/t-62ms/icon_t-62ms.webp",
           "slug": "t-62ms"
         },
         {
           "name": "Object 279",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images-Tanks@main/tanks/object-279/icon_object-279.webp",
+          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/object-279/icon_object-279.webp",
           "slug": "object-279"
         }
       ]
